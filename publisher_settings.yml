@@ -1,0 +1,13 @@
+publisher:
+  name: Città Metropolitana di Napoli 
+  short-name: CMNA
+  description: |
+    Ente di governo metropolitano
+  website: http://www.cittametropolitana.na.it
+  github_organization_url: github.com/cittametropolitananapoli
+  tags:
+    - documents
+    - public
+    - amazing publisher
+  assets:
+    logo: assets/images/cmna_logo.jpg
