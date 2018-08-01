@@ -1,5 +1,5 @@
 projects:
-  - title: Regolamento Foia
+  - title: contratto-di-servizio-docs
     short-name: 
     description: |
       Regolamento sul diritto di accesso all'informazione e all'accesso ai documenti amministrativi
@@ -10,70 +10,5 @@ projects:
       - citizenship
       - amazing project
     documents:
-      - title: Regolamento Foia
-        repository: foia-regolamento-docs
-projects:
-  - title: Statuto
-    short-name: 
-    description: Statuto
-    website: http://www.cittametropolitana.na.it/-/statuto
-    tags:
-      - digital
-      - amazing project
-    documents:
-      - title: statuto
-        repository: statuto-docs
-projects:
-  - title: Codice di Comportamento dei Dipendenti
-    short-name: 
-    description: |
-      Aggiornanento Codice di Comportamento Dipendenti
-    logo : "asset/images/cmna_logo.jpg"
-    website: http://www.cittametropolitana.na.it/codice-disciplinare-e-codice-di-condotta
-    tags:
-      - digital
-      - citizenship
-      - amazing project
-    documents:
-      - title: Codice di Comportamento Dipendenti
-        repository: cod_comportamento_dipendenti-docs         
-projects:
-  - title: Regolamento Foia
-    short-name: 
-    description: |
-      Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato
-    logo : "asset/images/cmna_logo.jpg
-    website: http://www.cittametropolitana.na.it/
-    tags:
-      - digital
-      - citizenship
-      - amazing project
-    documents:
-      - title: Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato
-        repository: foia-regolamento2-docs
-projects:
-  - title: Contratto di Servizio - Portale Utente - CRM Vtiger
-    short-name: SLA-Portal
-    description: |
-      Questo repository contiene il contratto di servizio SLA - Service Level Agreement, per i fruitori del servizio Portale Utente, basato su CRM vtiger. Il Portale Utente è un servizio ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli.
-    website: http://www.cittametopolitana.na.it
-    tags:
-      - crm
-      - portale utente
-    documents:
-      - title: Contratto di Servizio - Portale Utente - CRM Vtiger
+      - title: Contratto di servizio
         repository: contratto-di-servizio-docs
-projects:
-  - title: Manuale Portale Utente - CRM
-    short-name: CRM-Portal
-    description: |
-      Manuale d'uso interno del Portale Utente - CRM vtiger per la gestione
-      delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli
-    website: http://www.cittametopolitana.na.it
-    tags:
-      - crm
-      - portale utente
-    documents:
-      - title: Manuale Portale Utente - CRM
-        repository: portaleutente-manuale-docs
-
