@@ -1,14 +1,7 @@
 projects:
-  - title: contratto-di-servizio-docs
-    short-name: 
-    description: |
-      Regolamento sul diritto di accesso all'informazione e all'accesso ai documenti amministrativi
-    logo : "asset/images/cmna_logo.jpg
-    website: http://www.cittametropolitana.na.it/accesso-agli-atti
-    tags:
-      - digital
-      - citizenship
-      - amazing project
+  - 
+    name: Linee Guida open data
+    short_name: Lg Open Data
+    description: "Linee Guida Open Data Città Metropolitana di Napoli."
     documents:
-      - title: Contratto di servizio
-        repository: contratto-di-servizio-docs
+      - lg-od-docs
